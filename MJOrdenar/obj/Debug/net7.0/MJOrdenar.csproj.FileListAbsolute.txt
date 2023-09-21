@@ -1,0 +1,12 @@
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\bin\Debug\net7.0\MJOrdenar.deps.json
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\bin\Debug\net7.0\MJOrdenar.dll
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\bin\Debug\net7.0\MJOrdenar.pdb
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.AssemblyInfo.cs
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.dll
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\refint\MJOrdenar.dll
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\MJOrdenar.pdb
+C:\Users\marce\Desktop\C#\Criando bibliotecas\MJOrdenar\obj\Debug\net7.0\ref\MJOrdenar.dll
